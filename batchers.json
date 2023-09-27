@@ -1,0 +1,85 @@
+{
+  "batchers": [
+    {
+      "project_name": "optimism",
+      "batcher_addr": "0x6887246668a3b87F54DeB3b94Ba47a6f63F32985",
+      "box_addr": "0xFF00000000000000000000000000000000000010"
+    },
+    {
+      "project_name": "arbitrum-one",
+      "batcher_addr": "0xC1b634853Cb333D3aD8663715b08f41A3Aec47cc",
+      "box_addr": "0x1c479675ad559DC151F6Ec7ed3FbF8ceE79582B6",
+      "func_selector": "0x8f111f3c"
+    },
+    {
+      "project_name": "base",
+      "batcher_addr": "0x5050F69a9786F081509234F1a7F4684b5E5b76C9",
+      "box_addr": "0xFf00000000000000000000000000000000008453"
+    },
+    {
+      "project_name": "mantle",
+      "batcher_addr": "0x2F6AFE2E3feA041b892a6e240Fd1A0E5b51e8376",
+      "box_addr": "0x291dc3819b863e19b0a9b9809F8025d2EB4aaE93"
+    },
+    {
+      "project_name": "polygon-zkevm",
+      "batcher_addr": "0x148Ee7dAF16574cD020aFa34CC658f8F3fbd2800",
+      "box_addr": "0x5132A183E9F3CB7C848b0AAC5Ae0c4f0491B7aB2",
+      "func_selector": "0x5e9145c9"
+    },
+    {
+      "project_name": "boba",
+      "batcher_addr": "0xfa46908B587f9102E81CE6C43b7B41b52881c57F",
+      "box_addr": "0xfBd2541e316948B259264c02f370eD088E04c3Db",
+      "func_selector": "0xd0f89344"
+    },
+    {
+      "project_name": "zora",
+      "batcher_addr": "0x625726c858dBF78c0125436C943Bf4b4bE9d9033",
+      "box_addr": "0x6F54Ca6F6EdE96662024Ffd61BFd18f3f4e34DFf"
+    },
+    {
+      "project_name": "aevo",
+      "batcher_addr": "0x889e21d7BA3d6dD62e75d4980A4Ad1349c61599d",
+      "box_addr": "0x253887577420Cb7e7418cD4d50147743c8041b28"
+    },
+    {
+      "project_name": "degate-v2",
+      "batcher_addr": "0x4e3FE240B50A445fc6137a6363aC3593Af173b8a",
+      "box_addr": "0x2CFd271e9b4d0344Fd2Aa0cb1ffd4f6b85c0B215",
+      "func_selector": "0x377bb770"
+    },
+    {
+      "project_name": "manta-pacific",
+      "batcher_addr": "0xA76E31D8471D569EfDd3D95d1b11Ce6710f4533F",
+      "box_addr": "0xAEbA8e2307A22B6824a9a7a39f8b016C357Cd1Fe"
+    },
+    {
+      "project_name": "public-goods-network",
+      "batcher_addr": "0x99526b0e49A95833E734EB556A6aBaFFAb0Ee167",
+      "box_addr": "0xC1B90E1e459aBBDcEc4DCF90dA45ba077d83BFc5"
+    },
+    {
+      "project_name": "kroma",
+      "batcher_addr": "0x41b8cD6791De4D8f9E0eaF7861aC506822AdcE12",
+      "box_addr": "0xfF00000000000000000000000000000000000255"
+    },
+    {
+      "project_name": "loopring",
+      "batcher_addr": "0x7961076f6130092c1C90bd0D2C6F7f54055FA6C7",
+      "box_addr": "0x153CdDD727e407Cb951f728F24bEB9A5FaaA8512",
+      "func_selector": "0xdcb2aa31"
+    },
+    {
+      "project_name": "degate-v1",
+      "batcher_addr": "0xE9A37E8DDDbf4Bb3f5d6aCE6D01a137e484Db77C",
+      "box_addr": "0x6B937A5920726e70c5bF1d4d4E18EEeEd46FaE83",
+      "func_selector": "0x377bb770"
+    }, {
+      "project_name": "degate-v2",
+      "batcher_addr": "0x4e3FE240B50A445fc6137a6363aC3593Af173b8a",
+      "box_addr": "0x2CFd271e9b4d0344Fd2Aa0cb1ffd4f6b85c0B215",
+      "func_selector": "0x377bb770"
+    }
+  ]
+}
